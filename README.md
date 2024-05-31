@@ -1,1 +1,1 @@
-# EquitiesAnalyzer
+# Analyzing US Markets and Equities
